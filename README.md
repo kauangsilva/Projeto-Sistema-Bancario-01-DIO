@@ -1,7 +1,7 @@
 # Sistema Bancário via Terminal
 
 ## Descrição
-Este é um projeto básico de um sistema bancário desenvolvido em Python como parte de um desafio de um bootcamp. O sistema permite realizar operações bancárias simples via terminal, incluindo depósito, saque e extrato.
+Este é um projeto básico de um sistema bancário desenvolvido em Python como parte de um desafio do bootcamp da DIO. O sistema permite realizar operações bancárias simples via terminal, incluindo depósito, saque e extrato.
 
 ## Funcionalidades
 - **Depósito**: Permite depositar valores positivos na conta.
